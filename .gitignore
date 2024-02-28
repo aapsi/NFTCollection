@@ -13,3 +13,9 @@ docs/
 # Dotenv file
 .env
 /broadcast
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.yarn/install-state.gz
